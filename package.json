@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justpiple/whatsapp-bot.git"
+    "url": "git+https://github.com/xmell91/hosting.git"
   },
-  "author": "ben",
+  "author": "xmell91",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/justpiple/whatsapp-bot/issues"
+    "url": "https://github.com/xmell91/hosting/issues"
   },
-  "homepage": "https://github.com/justpiple/whatsapp-bot#readme"
+  "homepage": "https://github.com/xmell91/hosting#readme"
 }
